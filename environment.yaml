@@ -10,3 +10,4 @@ dependencies:
       - transformers
       - black
       - flake8
+      - tqdm
