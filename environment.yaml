@@ -1,0 +1,12 @@
+name: translation
+
+dependencies:
+  - python=3.10 # change python version
+  - pip
+  - pip:
+      - numpy
+      - pandas
+      - jupyterlab
+      - transformers
+      - black
+      - flake8
